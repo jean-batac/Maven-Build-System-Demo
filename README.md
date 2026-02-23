@@ -197,4 +197,4 @@ open target/site/jacoco/index.html   # View detailed coverage in browser
 | "Works on my machine" | Reproducible builds everywhere |
 | No standard project structure | Convention over configuration |
 
-<!-- tests triggered -->
+<!-- Triggered CI to update badges — commit this to refresh test information on README -->
